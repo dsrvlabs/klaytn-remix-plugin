@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/klaytn-remix-plugin/static/css/main.bfcef086.chunk.css",
+    "main.js": "/klaytn-remix-plugin/static/js/main.cf2aee93.chunk.js",
+    "main.js.map": "/klaytn-remix-plugin/static/js/main.cf2aee93.chunk.js.map",
+    "runtime-main.js": "/klaytn-remix-plugin/static/js/runtime-main.e2daf5a6.js",
+    "runtime-main.js.map": "/klaytn-remix-plugin/static/js/runtime-main.e2daf5a6.js.map",
+    "static/js/2.560b4fa7.chunk.js": "/klaytn-remix-plugin/static/js/2.560b4fa7.chunk.js",
+    "static/js/2.560b4fa7.chunk.js.map": "/klaytn-remix-plugin/static/js/2.560b4fa7.chunk.js.map",
+    "static/js/3.30974377.chunk.js": "/klaytn-remix-plugin/static/js/3.30974377.chunk.js",
+    "static/js/3.30974377.chunk.js.map": "/klaytn-remix-plugin/static/js/3.30974377.chunk.js.map",
+    "index.html": "/klaytn-remix-plugin/index.html",
+    "static/css/main.bfcef086.chunk.css.map": "/klaytn-remix-plugin/static/css/main.bfcef086.chunk.css.map",
+    "static/js/2.560b4fa7.chunk.js.LICENSE.txt": "/klaytn-remix-plugin/static/js/2.560b4fa7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2daf5a6.js",
+    "static/js/2.560b4fa7.chunk.js",
+    "static/css/main.bfcef086.chunk.css",
+    "static/js/main.cf2aee93.chunk.js"
+  ]
+}

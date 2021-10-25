@@ -1,0 +1,12 @@
+{
+  "name": "@dsrvlabs/klaytn-remix-plugin",
+  "displayName": "Klaytn Plugin",
+  "description": "Deploy and interact with Klaytn.",
+  "events": [],
+  "methods": [],
+  "url": " https://dsrvlabs.github.io/klaytn-remix-plugin",
+  "icon": "https://dsrvlabs.github.io/klaytn-remix-plugin/icon.png",
+  "documentation": "https://github.com/dsrvlabs/klaytn-remix-plugin",
+  "version": "0.2.0-beta",
+  "location": "sidePanel"
+}
